@@ -1,0 +1,19 @@
+# Customer Churn Prediction
+
+This project uses machine learning to predict customer churn using a Telco dataset. It includes data preprocessing, model training, evaluation, and insights generation.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib & Seaborn
+- Jupyter Notebook
+
+##  Models
+- Logistic Regression
+- Random Forest
+
+##  How to Run
+1. Clone this repository
+2. Install required packages: `pip install -r requirements.txt`
+3. Open and run the notebook:
